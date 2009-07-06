@@ -1,3 +1,3 @@
-libluaunit is a WoW addon packaging "luaunit":http://phil.freehackers.org/programs/luaunit/, an xunit library for lua testing.
+libluaunit is a WoW addon packaging luaunit:http://phil.freehackers.org/programs/luaunit/, an xunit library for lua testing.
 
 The file libluaunit.lua wraps the content of luaunit.lua in a function; this is an ugly hack to simulate the file being re-parsed at runtime, as would happen when running tests from a shell.
